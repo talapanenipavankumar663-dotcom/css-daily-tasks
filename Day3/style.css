@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container container {
+    color: darkblue;
+    font-size: 40px;
+}
+
+p {
+    color: gray;
+    font-size: 20px;
+}
+.box {
+    border: 3px solid blue;
+    width: 400px;
+    padding: 20px;
+    background-color: rgb(167, 197, 45);
+    margin: 20px auto;
+    text-align: center;
+    background -style: solid;
+}
